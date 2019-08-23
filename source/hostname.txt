@@ -1,3 +1,9 @@
+## This is a list of VPN hostnames, which we resolve to IPs and then dump into the final vpn.txt file.
+## The comment above each set of IPs indicates where they came from.
+## This entire file is refreshed once or twice yearly.
+## Last full refresh: 26/07/2019 (DD/MM/YYYY)
+
+## https://support.purevpn.com/vpn-servers
 ae1.pointtoserver.com
 ae2-ovpn-tcp.pointtoserver.com
 ae2-ovpn-udp.pointtoserver.com
