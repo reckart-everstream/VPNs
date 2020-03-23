@@ -1,3 +1,0 @@
-## Please do not use. This file is deprecated. It receives no updates, and will be deleted in the future.
-## The file is kept around to avoid breaking compatibility for anyone using it.
-## This list was deprecated because unlike vpn-ipv4.txt and vpn-ipv6.txt, it could easily and realistically be used by an oppressive government. That's not something I want to enable.
